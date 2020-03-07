@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{A21DEF92-BEFE-4040-B11B-4B1305B2A6D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{AEB3A16B-7118-4AC7-A64C-94D901320E9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sumo.Ui", "Sumo.Ui\Sumo.Ui.csproj", "{43B9AF66-2E3C-40DD-AE03-1EA970E18575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A21DEF92-BEFE-4040-B11B-4B1305B2A6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A21DEF92-BEFE-4040-B11B-4B1305B2A6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A21DEF92-BEFE-4040-B11B-4B1305B2A6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A21DEF92-BEFE-4040-B11B-4B1305B2A6D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEB3A16B-7118-4AC7-A64C-94D901320E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB3A16B-7118-4AC7-A64C-94D901320E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB3A16B-7118-4AC7-A64C-94D901320E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB3A16B-7118-4AC7-A64C-94D901320E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43B9AF66-2E3C-40DD-AE03-1EA970E18575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B9AF66-2E3C-40DD-AE03-1EA970E18575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B9AF66-2E3C-40DD-AE03-1EA970E18575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B9AF66-2E3C-40DD-AE03-1EA970E18575}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43B9C378-8F8C-45A0-9020-D4EB8E7CA983}
+	EndGlobalSection
+EndGlobal
